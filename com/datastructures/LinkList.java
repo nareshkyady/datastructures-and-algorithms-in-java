@@ -19,6 +19,7 @@ public class LinkList {
 			}
 			prev.next = newLink;
 		}
+		// Time Complexity: O(n)
 	}
 	public Link find(int key) {
 		Link current = first;
