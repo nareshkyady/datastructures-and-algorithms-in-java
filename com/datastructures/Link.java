@@ -1,7 +1,6 @@
 package com.datastructures;
 /**
  * This class is representation of single link/node with iData as "Data" and "next" as reference to next node/link.
- * @author naresh
  *
  */
 public class Link {
