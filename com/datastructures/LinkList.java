@@ -59,7 +59,7 @@ public class LinkList {
 		System.out.println("NULL");
 	}
 	/*
-	 * Find the middle node in a linkedlist.
+	 * Find the middle node in a linkedlist. 
 	 */
 	public Link findTheMiddle() {
 		Link fastPtr = first;
