@@ -15,12 +15,10 @@ public class LinkListApp {
 		list.insert(100);
 		list.insert(110);
 		list.insert(120);
-		
+
 		list.display();
-		
-		
-		System.out.println("Middle node:"+list.findTheMiddle().iData);
+
+		System.out.println("Middle node:" + list.findTheMiddle().iData);
 	}
-	
-	
+
 }

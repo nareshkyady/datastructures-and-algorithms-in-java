@@ -9,7 +9,7 @@ public class DoubleLinkListApp {
 		list.insertLast(30);
 		list.insertLast(40);
 		list.insertLast(50);
-		
+
 		list.display();
 	}
 
