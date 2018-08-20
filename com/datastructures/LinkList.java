@@ -70,4 +70,8 @@ public class LinkList {
 		}
 		return slowPtr;
 	}
+	public void sortList() {
+		Link current = first;
+		
+	}
 }
