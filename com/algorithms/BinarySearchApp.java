@@ -1,4 +1,4 @@
-package com.datastructures.algorithms;
+package com.algorithms;
 
 public class BinarySearchApp {
 	
